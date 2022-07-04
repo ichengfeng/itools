@@ -2,8 +2,9 @@ name: itools
 description: A collection of commonly used widgets.At present,
   it only includes functions such as screen adaptation and log printing,
   but some new gadgets will be added later
-version: 0.0.6
-homepage: https://github.com/ichengfeng
+version: 0.0.7
+homepage: https://github.com/ichengfeng/itools.git
+publish_to: http://flutter.xinc818.com
 
 environment:
   sdk: ">=2.15.1 <3.0.0"
